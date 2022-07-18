@@ -1,0 +1,1 @@
+# Program for calculating "true love". It takes  both people's names and checks for the number of times the letters in the word TRUE occurs. Then it does the same for the word LOVE. Then it combines these numbers to make a 2 digit number.
